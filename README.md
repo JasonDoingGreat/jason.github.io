@@ -1,8 +1,8 @@
 # Jason Li Deep Learning Book.
 
-Welcome everyone to Jason Li Deep Learning Book, this is built for research and industry implementations purpose. Jason is a master student with focus on deep learning algorithms. 
+Welcome everyone to Jason Li Deep Learning Book, this is built for research and industry implementations purpose. Jason was previously a master student with focus on deep learning algorithms. 
 
-Currently working in the AI industry in deep learning and computer vision field. Meanwhile, Jason takes responsiblities of sharing knowledge and thoughts through a very popular online course across the US and Mainland China.
+Currently, Jason is working in the AI industry in deep learning and computer vision field. Meanwhile, Jason takes responsiblities of sharing knowledge and thoughts through a very popular online course across the US and Mainland China.
 
 ## Highlights
 
